@@ -1,7 +1,10 @@
 # Bookstore
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+* Bookstore APP was coded in our weekly Ember.js meet up.
+
+    * This APP (Ember.js) is connected to a Bookstore API (Ruby on Rails): https://github.com/szines/bookstore-api
+
+Thanks to our Mentor Zoltan Debre for this tutorial! :)
 
 ## Prerequisites
 
@@ -50,4 +53,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
